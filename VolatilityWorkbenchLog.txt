@@ -1,0 +1,1447 @@
+﻿PassMark Volatility Workbench Log file  -  http://www.passmark.com
+==================================================================
+Volatility Workbench Version: V3.0 Build 1016
+Volatility 3 Framework Version: 2.27.0
+Log Date: Sat Aug 15 21:44:52 2026
+
+
+Time Stamp: Sat Aug 15 21:43:15 2026
+
+"C:\Users\1533\Downloads\VolatilityWorkbench\vol.exe" -f "C:\Users\1533\Documents\awdd\fffffffw.raw" windows.modules.Modules 
+Volatility 3 Framework 2.26.2
+Offset	Base	Size	Name	Path	File output
+0x980b9de69410	0xf80771600000	0x1046000	ntoskrnl.exe	\SystemRoot\system32\ntoskrnl.exe	Disabled
+0x980b9de5fe40	0xf8076f780000	0x6000	hal.dll	\SystemRoot\system32\hal.dll	Disabled
+0x980b9de69820	0xf8076f790000	0xb000	kdcom.dll	\SystemRoot\system32\kd.dll	Disabled
+0x980b9de699d0	0xf8076f750000	0x28000	mcupdate.dll	\SystemRoot\system32\mcupdate_AuthenticAMD.dll	Disabled
+0x980b9de69b80	0xf8076f7d0000	0x6d000	CLFS.SYS	\SystemRoot\System32\drivers\CLFS.SYS	Disabled
+0x980b9de69d30	0xf8076f7a0000	0x28000	tm.sys	\SystemRoot\System32\drivers\tm.sys	Disabled
+0x980b9de6a010	0xf8076f840000	0x1a000	PSHED.dll	\SystemRoot\system32\PSHED.dll	Disabled
+0x980b9de6a1d0	0xf8076f860000	0xb000	BOOTVID.dll	\SystemRoot\system32\BOOTVID.dll	Disabled
+0x980b9de6a380	0xf8076f990000	0x6d000	FLTMGR.SYS	\SystemRoot\System32\drivers\FLTMGR.SYS	Disabled
+0x980b9de6a540	0xf8076fa30000	0x63000	msrpc.sys	\SystemRoot\System32\drivers\msrpc.sys	Disabled
+0x980b9de6a710	0xf8076fa00000	0x29000	ksecdd.sys	\SystemRoot\System32\drivers\ksecdd.sys	Disabled
+0x980b9de7b980	0xf8076f870000	0x116000	clipsp.sys	\SystemRoot\System32\drivers\clipsp.sys	Disabled
+0x980b9de6a8d0	0xf8076faa0000	0xe000	cmimcext.sys	\SystemRoot\System32\drivers\cmimcext.sys	Disabled
+0x980b9de6aa90	0xf8076fab0000	0x11000	werkernel.sys	\SystemRoot\System32\drivers\werkernel.sys	Disabled
+0x980b9de6ac50	0xf8076fad0000	0xc000	ntosext.sys	\SystemRoot\System32\drivers\ntosext.sys	Disabled
+0x980b9de6ae00	0xf80775000000	0xeb000	CI.dll	\SystemRoot\system32\CI.dll	Disabled
+0x980b9de6b010	0xf807750f0000	0xbb000	cng.sys	\SystemRoot\System32\drivers\cng.sys	Disabled
+0x980b9de6b1d0	0xf807751b0000	0xd1000	Wdf01000.sys	\SystemRoot\system32\drivers\Wdf01000.sys	Disabled
+0x980b9de6b3a0	0xf8076fae0000	0x13000	WDFLDR.SYS	\SystemRoot\system32\drivers\WDFLDR.SYS	Disabled
+0x980b9de6b550	0xf8076fb10000	0x11000	WppRecorder.sys	\SystemRoot\system32\drivers\WppRecorder.sys	Disabled
+0x980b9de6b710	0xf8076fb00000	0xf000	SleepStudyHelper.sys	\SystemRoot\system32\drivers\SleepStudyHelper.sys	Disabled
+0x980b9de6b8d0	0xf80775290000	0x26000	acpiex.sys	\SystemRoot\System32\Drivers\acpiex.sys	Disabled
+0x980b9de6ba80	0xf8076fb30000	0xd000	msseccore.sys	\SystemRoot\system32\drivers\msseccore.sys	Disabled
+0x980b9de6bc40	0xf807752c0000	0x1a000	SgrmAgent.sys	\SystemRoot\system32\drivers\SgrmAgent.sys	Disabled
+0x980b9de6be00	0xf807752e0000	0xcc000	ACPI.sys	\SystemRoot\System32\drivers\ACPI.sys	Disabled
+0x980b9de6c010	0xf8076fb40000	0xc000	WMILIB.SYS	\SystemRoot\System32\drivers\WMILIB.SYS	Disabled
+0x980b9de6c1c0	0xf807753b0000	0xb000	msisadrv.sys	\SystemRoot\System32\drivers\msisadrv.sys	Disabled
+0x980b9de6c370	0xf807753c0000	0x78000	pci.sys	\SystemRoot\System32\drivers\pci.sys	Disabled
+0x980b9de6c520	0xf80775440000	0x45000	tpm.sys	\SystemRoot\System32\drivers\tpm.sys	Disabled
+0x980b9de6c6d0	0xf80775490000	0x6b000	intelpep.sys	\SystemRoot\System32\drivers\intelpep.sys	Disabled
+0x980b9de6c890	0xf80775500000	0x17000	WindowsTrustedRT.sys	\SystemRoot\system32\drivers\WindowsTrustedRT.sys	Disabled
+0x980b9de6ca50	0xf80775520000	0xb000	IntelTA.sys	\SystemRoot\System32\drivers\IntelTA.sys	Disabled
+0x980b9de6cc00	0xf80775530000	0xb000	WindowsTrustedRTProxy.sys	\SystemRoot\System32\drivers\WindowsTrustedRTProxy.sys	Disabled
+0x980b9de6cdd0	0xf80775540000	0x14000	pcw.sys	\SystemRoot\System32\drivers\pcw.sys	Disabled
+0x980b9de6d010	0xf80775560000	0x15000	vdrvroot.sys	\SystemRoot\System32\drivers\vdrvroot.sys	Disabled
+0x980b9de6d1c0	0xf80775580000	0x2f000	pdc.sys	\SystemRoot\system32\drivers\pdc.sys	Disabled
+0x980b9de7c390	0xf807755b0000	0x19000	CEA.sys	\SystemRoot\system32\drivers\CEA.sys	Disabled
+0x980b9de7c530	0xf807755d0000	0x31000	partmgr.sys	\SystemRoot\System32\drivers\partmgr.sys	Disabled
+0x980b9de7c050	0xf80775610000	0x19000	volmgr.sys	\SystemRoot\System32\drivers\volmgr.sys	Disabled
+0x980b9de6d370	0xf80775630000	0x63000	volmgrx.sys	\SystemRoot\System32\drivers\volmgrx.sys	Disabled
+0x980b9de7c6d0	0xf807756a0000	0x1e000	mountmgr.sys	\SystemRoot\System32\drivers\mountmgr.sys	Disabled
+0x980b9de7c870	0xf807756c0000	0x32000	storahci.sys	\SystemRoot\System32\drivers\storahci.sys	Disabled
+0x980b9de6d530	0xf80775700000	0xb5000	storport.sys	\SystemRoot\System32\drivers\storport.sys	Disabled
+0x980b9de7cd50	0xf807757c0000	0x2f000	stornvme.sys	\SystemRoot\System32\drivers\stornvme.sys	Disabled
+0x980b9de6d700	0xf80775800000	0x1c000	EhStorClass.sys	\SystemRoot\System32\drivers\EhStorClass.sys	Disabled
+0x980b9de7ca10	0xf80775820000	0x1a000	fileinfo.sys	\SystemRoot\System32\drivers\fileinfo.sys	Disabled
+0x980b9de7cbb0	0xf80775840000	0x40000	Wof.sys	\SystemRoot\System32\Drivers\Wof.sys	Disabled
+0x980b9de7a620	0xf80775890000	0x2d7000	Ntfs.sys	\SystemRoot\System32\Drivers\Ntfs.sys	Disabled
+0x980b9de7c1f0	0xf807757f0000	0xd000	Fs_Rec.sys	\SystemRoot\System32\Drivers\Fs_Rec.sys	Disabled
+0x980b9de6d8c0	0xf80775b70000	0x16f000	ndis.sys	\SystemRoot\system32\drivers\ndis.sys	Disabled
+0x980b9de6daa0	0xf80775ce0000	0x9e000	NETIO.SYS	\SystemRoot\system32\drivers\NETIO.SYS	Disabled
+0x980b9de7d050	0xf80775d80000	0x32000	ksecpkg.sys	\SystemRoot\System32\Drivers\ksecpkg.sys	Disabled
+0x980b9de6dc70	0xf80775dc0000	0x2ed000	tcpip.sys	\SystemRoot\System32\drivers\tcpip.sys	Disabled
+0x980b9de6e010	0xf807760b0000	0x7f000	fwpkclnt.sys	\SystemRoot\System32\drivers\fwpkclnt.sys	Disabled
+0x980b9de7e710	0xf80776130000	0x30000	wfplwfs.sys	\SystemRoot\System32\drivers\wfplwfs.sys	Disabled
+0x980b9de6e1d0	0xf80776170000	0xc9000	fvevol.sys	\SystemRoot\System32\DRIVERS\fvevol.sys	Disabled
+0x980b9de7d390	0xf80776240000	0xb000	volume.sys	\SystemRoot\System32\drivers\volume.sys	Disabled
+0x980b9de6e3a0	0xf80776250000	0x6d000	volsnap.sys	\SystemRoot\System32\drivers\volsnap.sys	Disabled
+0x980b9de7ed90	0xf807762c0000	0x2e000	SysmonDrv.sys	\SystemRoot\SysmonDrv.sys	Disabled
+0x980b9de7d870	0xf807762f0000	0x26000	mup.sys	\SystemRoot\System32\Drivers\mup.sys	Disabled
+0x980b9de7e8b0	0xf80776320000	0x12000	iorate.sys	\SystemRoot\system32\drivers\iorate.sys	Disabled
+0x980b9de7da10	0xf80776360000	0x1f000	disk.sys	\SystemRoot\System32\drivers\disk.sys	Disabled
+0x980b9de7f710	0xf80776380000	0x73000	CLASSPNP.SYS	\SystemRoot\System32\drivers\CLASSPNP.SYS	Disabled
+0x980ba5da6530	0xf80781430000	0x1e000	crashdmp.sys	\SystemRoot\System32\Drivers\crashdmp.sys	Disabled
+0x980ba5d98010	0xf8078eef0000	0x4419000	vgk.sys	\??\C:\Program Files\Riot Vanguard\vgk.sys	Disabled
+0x980baa430100	0xf80793310000	0x30000	cdrom.sys	\SystemRoot\System32\drivers\cdrom.sys	Disabled
+0x980ba15fd490	0xf80793350000	0x15000	filecrypt.sys	\SystemRoot\system32\drivers\filecrypt.sys	Disabled
+0x980baa42cd00	0xf80793370000	0xe000	tbs.sys	\SystemRoot\system32\drivers\tbs.sys	Disabled
+0x980ba5cf8e00	0xf80793380000	0xa000	Null.SYS	\SystemRoot\System32\Drivers\Null.SYS	Disabled
+0x980ba5e9ca20	0xf80781000000	0x3aa000	dxgkrnl.sys	\SystemRoot\System32\drivers\dxgkrnl.sys	Disabled
+0x980baa42d520	0xf80793390000	0x18000	watchdog.sys	\SystemRoot\System32\drivers\watchdog.sys	Disabled
+0x980ba15fc8c0	0xf807933b0000	0x16000	BasicDisplay.sys	\SystemRoot\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_19e58b6267591a82\BasicDisplay.sys	Disabled
+0x980ba15fc560	0xf807933d0000	0x11000	BasicRender.sys	\SystemRoot\System32\DriverStore\FileRepository\basicrender.inf_amd64_d3f5994a67770b50\BasicRender.sys	Disabled
+0x980baa42da00	0xf8078ec00000	0x1c000	Npfs.SYS	\SystemRoot\System32\Drivers\Npfs.SYS	Disabled
+0x980baa4312e0	0xf8078ec20000	0x11000	Msfs.SYS	\SystemRoot\System32\Drivers\Msfs.SYS	Disabled
+0x980baa430920	0xf8078ec40000	0x1e000	CimFS.SYS	\SystemRoot\System32\Drivers\CimFS.SYS	Disabled
+0x980baa42ebe0	0xf8078ec60000	0x22000	tdx.sys	\SystemRoot\system32\DRIVERS\tdx.sys	Disabled
+0x980baa42f400	0xf8078ec90000	0x10000	TDI.SYS	\SystemRoot\system32\DRIVERS\TDI.SYS	Disabled
+0x980ba5ff6a70	0xf8078ecb0000	0x5c000	netbt.sys	\SystemRoot\System32\DRIVERS\netbt.sys	Disabled
+0x980b9f971520	0xf8078ed10000	0xa7000	afd.sys	\SystemRoot\system32\drivers\afd.sys	Disabled
+0x980baa431480	0xf8078edc0000	0x1a000	vwififlt.sys	\SystemRoot\System32\drivers\vwififlt.sys	Disabled
+0x980baa42ed80	0xf8078ede0000	0x2b000	pacer.sys	\SystemRoot\System32\drivers\pacer.sys	Disabled
+0x980baa42f5a0	0xf8078ee10000	0x14000	netbios.sys	\SystemRoot\system32\drivers\netbios.sys	Disabled
+0x980ba5ff7130	0xf8078ee30000	0xa2000	Vid.sys	\SystemRoot\System32\drivers\Vid.sys	Disabled
+0x980ba5ff7d00	0xf807813b0000	0x21000	winhvr.sys	\SystemRoot\System32\drivers\winhvr.sys	Disabled
+0x980ba5ff72e0	0xf80781510000	0x7b000	rdbss.sys	\SystemRoot\system32\DRIVERS\rdbss.sys	Disabled
+0x980ba5ff68c0	0xf80795550000	0x95000	csc.sys	\SystemRoot\system32\drivers\csc.sys	Disabled
+0x980baa431620	0xf80794600000	0x12000	nsiproxy.sys	\SystemRoot\system32\drivers\nsiproxy.sys	Disabled
+0x980ba5ff77f0	0xf80794620000	0xe000	npsvctrig.sys	\SystemRoot\System32\drivers\npsvctrig.sys	Disabled
+0x980baa42f260	0xf80794630000	0x10000	mssmbios.sys	\SystemRoot\System32\drivers\mssmbios.sys	Disabled
+0x980baa4317c0	0xf80794650000	0xa000	gpuenergydrv.sys	\SystemRoot\System32\drivers\gpuenergydrv.sys	Disabled
+0x980baa4302a0	0xf80794660000	0x2c000	dfsc.sys	\SystemRoot\System32\Drivers\dfsc.sys	Disabled
+0x980baa42f0c0	0xf80794690000	0x17000	bam.sys	\SystemRoot\system32\drivers\bam.sys	Disabled
+0x980ba5ff6560	0xf807946b0000	0x4e000	ahcache.sys	\SystemRoot\system32\DRIVERS\ahcache.sys	Disabled
+0x980baa42fa80	0xf80794700000	0x12000	RvNetMP60.sys	\SystemRoot\System32\drivers\RvNetMP60.sys	Disabled
+0x980ba5ff63b0	0xf80794780000	0x12000	CompositeBus.sys	\SystemRoot\System32\DriverStore\FileRepository\compositebus.inf_amd64_7500cffa210c6946\CompositeBus.sys	Disabled
+0x980baa431b00	0xf807947a0000	0xd000	kdnic.sys	\SystemRoot\System32\drivers\kdnic.sys	Disabled
+0x980baa42e8a0	0xf807947b0000	0x15000	umbus.sys	\SystemRoot\System32\DriverStore\FileRepository\umbus.inf_amd64_b78a9c5b6fd62c27\umbus.sys	Disabled
+0x980b9f9794e0	0xf807947d0000	0x9e000	USBXHCI.SYS	\SystemRoot\System32\drivers\USBXHCI.SYS	Disabled
+0x980ba5ff6200	0xf80794870000	0x44000	ucx01000.sys	\SystemRoot\system32\drivers\ucx01000.sys	Disabled
+0x980b9f9796a0	0xf807948c0000	0x13c000	rt640x64.sys	\SystemRoot\System32\drivers\rt640x64.sys	Disabled
+0x980ba741d010	0xf807aec40000	0x6744000	nvlddmkm.sys	\SystemRoot\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_b7cca8360c0d57e9\nvlddmkm.sys	Disabled
+0x980baa447040	0xf807b5390000	0x27000	HDAudBus.sys	\SystemRoot\System32\drivers\HDAudBus.sys	Disabled
+0x980ba7367560	0xf807ae200000	0x66000	portcls.sys	\SystemRoot\System32\drivers\portcls.sys	Disabled
+0x980baa445e60	0xf807ae270000	0x21000	drmk.sys	\SystemRoot\System32\drivers\drmk.sys	Disabled
+0x980ba7368640	0xf807ae2a0000	0x76000	ks.sys	\SystemRoot\System32\drivers\ks.sys	Disabled
+0x980baa4476c0	0xf807ae320000	0xc000	amdgpio2.sys	\SystemRoot\System32\drivers\amdgpio2.sys	Disabled
+0x980ba73687f0	0xf807ae330000	0x32000	msgpioclx.sys	\SystemRoot\System32\Drivers\msgpioclx.sys	Disabled
+0x980baa447520	0xf807ae370000	0xc000	wmiacpi.sys	\SystemRoot\System32\drivers\wmiacpi.sys	Disabled
+0x980baa446b60	0xf807ae380000	0x3d000	amdppm.sys	\SystemRoot\System32\drivers\amdppm.sys	Disabled
+0x980baa447ba0	0xf807ae3c0000	0xe000	UEFI.sys	\SystemRoot\System32\DriverStore\FileRepository\uefi.inf_amd64_c1628ffa62c8e54c\UEFI.sys	Disabled
+0x980baa447860	0xf807ae3d0000	0xf000	nvvad64v.sys	\SystemRoot\system32\drivers\nvvad64v.sys	Disabled
+0x980ba5da78b0	0xf807ae3e0000	0xf000	ksthunk.sys	\SystemRoot\system32\drivers\ksthunk.sys	Disabled
+0x980ba75e3200	0xf807ae3f0000	0xd000	NdisVirtualBus.sys	\SystemRoot\System32\drivers\NdisVirtualBus.sys	Disabled
+0x980ba5da6050	0xf807ae400000	0xc000	swenum.sys	\SystemRoot\System32\DriverStore\FileRepository\swenum.inf_amd64_16a14542b63c02af\swenum.sys	Disabled
+0x980b9f9814a0	0xf807ae410000	0xc000	logi_joy_bus_enum.x64.sys	\SystemRoot\System32\drivers\logi_joy_bus_enum.x64.sys	Disabled
+0x980ba75e3a70	0xf807ae420000	0x14000	logi_joy_xlcore.x64.sys	\SystemRoot\System32\drivers\logi_joy_xlcore.x64.sys	Disabled
+0x980ba5cbd530	0xf807ae440000	0xe000	rdpbus.sys	\SystemRoot\System32\drivers\rdpbus.sys	Disabled
+0x980ba5b273f0	0xf807ae450000	0x49000	vbvoicemeetervaio64_win10.sys	\SystemRoot\System32\DriverStore\FileRepository\vbvoicemeetervaio64_win10.inf_amd64_88e966008b21fe10\vbvoicemeetervaio64_win10.sys	Disabled
+0x980ba5cbe570	0xf807ae4a0000	0x1a000	iriuna0.sys	\SystemRoot\system32\drivers\iriuna0.sys	Disabled
+0x980ba7d4e490	0xf807ae4c0000	0xa3000	UsbHub3.sys	\SystemRoot\System32\drivers\UsbHub3.sys	Disabled
+0x980ba5df06d0	0xf807ae570000	0xe000	USBD.SYS	\SystemRoot\System32\drivers\USBD.SYS	Disabled
+0x980ba15fdb50	0xf807ae580000	0x6f000	HdAudio.sys	\SystemRoot\System32\drivers\HdAudio.sys	Disabled
+0x980baa42b640	0xf807ae5f0000	0x1f000	nvhda64v.sys	\SystemRoot\system32\drivers\nvhda64v.sys	Disabled
+0x980ba7f78050	0xf807ae610000	0x6d000	fastfat.SYS	\SystemRoot\System32\Drivers\fastfat.SYS	Disabled
+0x980ba5df0050	0xf807ae680000	0x34000	usbccgp.sys	\SystemRoot\System32\drivers\usbccgp.sys	Disabled
+0x980baa443c40	0xf807ae6c0000	0x38000	usbaudio.sys	\SystemRoot\system32\drivers\usbaudio.sys	Disabled
+0x980baa4447a0	0xf807ae700000	0x12000	hidusb.sys	\SystemRoot\System32\drivers\hidusb.sys	Disabled
+0x980ba7f792e0	0xf807ae720000	0x41000	HIDCLASS.SYS	\SystemRoot\System32\drivers\HIDCLASS.SYS	Disabled
+0x980baa443420	0xf807ae770000	0x13000	HIDPARSE.SYS	\SystemRoot\System32\drivers\HIDPARSE.SYS	Disabled
+0x980ba7ffa010	0xf99f3cdc0000	0x9b000	win32k.sys	\SystemRoot\System32\win32k.sys	Disabled
+0x980ba7fe4520	0xf99f3c800000	0x2ce000	win32kbase.sys	\SystemRoot\System32\win32kbase.sys	Disabled
+0x980ba5f12010	0xf99f3df10000	0x3b0000	win32kfull.sys	\SystemRoot\System32\win32kfull.sys	Disabled
+0x980baa443760	0xf807ae790000	0x11000	kbdhid.sys	\SystemRoot\System32\drivers\kbdhid.sys	Disabled
+0x980baa444c80	0xf807ae7b0000	0x14000	kbdclass.sys	\SystemRoot\System32\drivers\kbdclass.sys	Disabled
+0x980ba5da61f0	0xf807ae7d0000	0x10000	mouhid.sys	\SystemRoot\System32\drivers\mouhid.sys	Disabled
+0x980ba5df3a50	0xf807ae7f0000	0x13000	mouclass.sys	\SystemRoot\System32\drivers\mouclass.sys	Disabled
+0x980ba5d68490	0xf807ae820000	0xf000	dump_storport.sys	\SystemRoot\System32\Drivers\dump_dumpstorport.sys	Disabled
+0x980ba5d68b50	0xf807ae860000	0x2f000	dump_stornvme.sys	\SystemRoot\System32\drivers\dump_stornvme.sys	Disabled
+0x980ba5d687f0	0xf807ae8b0000	0x1d000	dump_dumpfve.sys	\SystemRoot\System32\Drivers\dump_dumpfve.sys	Disabled
+0x980baa323ad0	0xf807ae8d0000	0xe1000	dxgmms2.sys	\SystemRoot\System32\drivers\dxgmms2.sys	Disabled
+0x980ba5df3bf0	0xf807ae9c0000	0x1b000	monitor.sys	\SystemRoot\System32\drivers\monitor.sys	Disabled
+0x980bafa69800	0xf807ae9e0000	0x54000	WUDFRd.sys	\SystemRoot\System32\drivers\WUDFRd.sys	Disabled
+0x980baf472050	0xf99f3e2d0000	0x49000	cdd.dll	\SystemRoot\System32\cdd.dll	Disabled
+0x980bafa6b660	0xf807aea40000	0x2b000	luafv.sys	\SystemRoot\system32\drivers\luafv.sys	Disabled
+0x980ba5da7710	0xf807aea70000	0x36000	wcifs.sys	\SystemRoot\system32\drivers\wcifs.sys	Disabled
+0x980bb03353c0	0xf807aeab0000	0x14000	mmcss.sys	\SystemRoot\system32\drivers\mmcss.sys	Disabled
+0x980bb0338150	0xf807aead0000	0x82000	cldflt.sys	\SystemRoot\system32\drivers\cldflt.sys	Disabled
+0x980bb0336650	0xf807aeb80000	0x1a000	storqosflt.sys	\SystemRoot\system32\drivers\storqosflt.sys	Disabled
+0x980ba5df2bb0	0xf807aeba0000	0x27000	bindflt.sys	\SystemRoot\system32\drivers\bindflt.sys	Disabled
+0x980bb04ea4a0	0xf807aebd0000	0x56000	msquic.sys	\SystemRoot\system32\drivers\msquic.sys	Disabled
+0x980baf7fe230	0xf80794a00000	0x188000	HTTP.sys	\SystemRoot\system32\drivers\HTTP.sys	Disabled
+0x980bb11f23d0	0xf80794b90000	0x56000	srvnet.sys	\SystemRoot\System32\DRIVERS\srvnet.sys	Disabled
+0x980bb11f12f0	0xf80794bf0000	0xc7000	srv2.sys	\SystemRoot\System32\DRIVERS\srv2.sys	Disabled
+0x980bb1234d90	0xf807b53c0000	0x1a000	mpsdrv.sys	\SystemRoot\System32\drivers\mpsdrv.sys	Disabled
+0x980bb12350d0	0xf807b53e0000	0x1d000	wanarp.sys	\SystemRoot\System32\DRIVERS\wanarp.sys	Disabled
+0x980ba9ed7e10	0xf80794cc0000	0x25000	bowser.sys	\SystemRoot\system32\DRIVERS\bowser.sys	Disabled
+0x980bb10a2310	0xf80794cf0000	0x94000	mrxsmb.sys	\SystemRoot\system32\DRIVERS\mrxsmb.sys	Disabled
+0x980ba9ed7900	0xf80794d90000	0x45000	mrxsmb20.sys	\SystemRoot\system32\DRIVERS\mrxsmb20.sys	Disabled
+0x980ba9ed9760	0xf80794de0000	0x5a000	BstkDrv_msi2.sys	\??\C:\Program Files\BlueStacks_msi2\BstkDrv_msi2.sys	Disabled
+0x980ba9ed9250	0xf80794e40000	0x7b000	BstkDrv_msi5.sys	\??\C:\Program Files\BlueStacks_msi5\BstkDrv_msi5.sys	Disabled
+0x980bb1236ad0	0xf80794ec0000	0x18000	ndisuio.sys	\SystemRoot\system32\drivers\ndisuio.sys	Disabled
+0x980ba9ee1b00	0xf80794ee0000	0xd7000	peauth.sys	\SystemRoot\system32\drivers\peauth.sys	Disabled
+0x980bb1234710	0xf80794fc0000	0x15000	tcpipreg.sys	\SystemRoot\System32\drivers\tcpipreg.sys	Disabled
+0x980bb1236e10	0xf80794fe0000	0x1d000	rassstp.sys	\SystemRoot\System32\drivers\rassstp.sys	Disabled
+0x980ba9ed73f0	0xf80795000000	0xbf000	nwifi.sys	\SystemRoot\system32\DRIVERS\nwifi.sys	Disabled
+0x980bb1235270	0xf807950c0000	0x1d000	NDProxy.sys	\SystemRoot\System32\DRIVERS\NDProxy.sys	Disabled
+0x980bb12358f0	0xf807950e0000	0x28000	AgileVpn.sys	\SystemRoot\System32\drivers\AgileVpn.sys	Disabled
+0x980ba9ed6670	0xf80795110000	0x23000	rasl2tp.sys	\SystemRoot\System32\drivers\rasl2tp.sys	Disabled
+0x980bb14bba80	0xf80795140000	0x21000	raspptp.sys	\SystemRoot\System32\drivers\raspptp.sys	Disabled
+0x980bb1234090	0xf80795170000	0x1c000	raspppoe.sys	\SystemRoot\System32\DRIVERS\raspppoe.sys	Disabled
+0x980bb1234230	0xf807aec30000	0xf000	ndistapi.sys	\SystemRoot\System32\DRIVERS\ndistapi.sys	Disabled
+0x980bb1234570	0xf80795190000	0x12000	condrv.sys	\SystemRoot\System32\drivers\condrv.sys	Disabled
+0x980bb12348b0	0xf807951b0000	0x3a000	ndiswan.sys	\SystemRoot\System32\drivers\ndiswan.sys	Disabled
+0x980bb1237630	0xf807951f0000	0x2a000	tunnel.sys	\SystemRoot\System32\drivers\tunnel.sys	Disabled
+0x980bb3c8ab90	0xf807aeb60000	0x9000	logi_joy_vir_hid.x64.sys	\SystemRoot\System32\drivers\logi_joy_vir_hid.x64.sys	Disabled
+0x980bb43cea90	0xf80795220000	0x12000	MSKSSRV.sys	\SystemRoot\System32\drivers\MSKSSRV.sys	Disabled
+0x980bb479de50	0xf80795240000	0x14000	qwavedrv.sys	\SystemRoot\system32\drivers\qwavedrv.sys	Disabled
+0x980bb3ffccf0	0xf80795260000	0x222000	BstkVMMR0_msi5.r0	\??\C:\Program Files\BlueStacks_msi5\BstkVMMR0_msi5.r0	Disabled
+0x980bb479c450	0xf80795490000	0x45000	BstkDDR0.r0	\??\C:\Program Files\BlueStacks_msi5\BstkDDR0.r0	Disabled
+0x980bb6826a90	0xf807954e0000	0x4c000	SystemInformer.sys	\??\C:\Program Files\SystemInformer\SystemInformer.sys	Disabled
+0x980bbfb4c130	0xf807aeb70000	0xa000	ksi.dll	\??\C:\Program Files\SystemInformer\ksi.dll	Disabled
+0x980bbcb16e40	0xf807955f0000	0x8000	Mag12D1.tmp	\??\C:\Users\1533\Documents\awdd\Mag12D1.tmp	Disabled
+
+Time Stamp: Sat Aug 15 21:43:19 2026
+
+
+******* End of command output ******
+
+Time Stamp: Sat Aug 15 21:43:42 2026
+
+"C:\Users\1533\Downloads\VolatilityWorkbench\vol.exe" -f "C:\Users\1533\Documents\awdd\fffffffw.raw" windows.driverscan.DriverScan 
+Volatility 3 Framework 2.26.2
+Offset	Start	Size	Service Key	Driver Name	Name
+0x980b9de63e10	0xf80775490000	0x6b000	intelpep	intelpep	\Driver\intelpep
+0x980b9de70b90	0xf80771600000	0x0	\Driver\ACPI_HAL	ACPI_HAL	\Driver\ACPI_HAL
+0x980b9de84910	0xf80795190000	0x12000	condrv	condrv	\Driver\condrv
+0x980b9de85e10	0xf80775500000	0x17000	WindowsTrustedRT	WindowsTrustedRT	\Driver\WindowsTrustedRT
+0x980b9de8fd30	0xf80771600000	0x0	\Driver\WMIxWDM	WMIxWDM	\Driver\WMIxWDM
+0x980b9df47df0	0xf80771600000	0x0	\Driver\SoftwareDevice	SoftwareDevice	\Driver\SoftwareDevice
+0x980b9df50df0	0xf80771600000	0x0	\Driver\DeviceApi	DeviceApi	\Driver\DeviceApi
+0x980b9f1ece30	0xf80771600000	0x0	\Driver\PnpManager	PnpManager	\Driver\PnpManager
+0x980b9f1ee720	0xf807753c0000	0x78000	pci	pci	\Driver\pci
+0x980b9f2c8dd0	0xf807750f0000	0xbb000	CNG	CNG	\Driver\CNG
+0x980b9f2cbdd0	0xf80775520000	0xb000	Telemetry	Telemetry	\Driver\Telemetry
+0x980b9f2cedd0	0xf80775290000	0x26000	acpiex	acpiex	\Driver\acpiex
+0x980b9f2cfdd0	0xf80775530000	0xb000	WindowsTrustedRTProxy	WindowsTrustedRTProxy	\Driver\WindowsTrustedRTProxy
+0x980b9f2d3720	0xf807753b0000	0xb000	msisadrv	msisadrv	\Driver\msisadrv
+0x980b9f2d6e10	0xf807751b0000	0xd1000	Wdf01000	Wdf01000	\Driver\Wdf01000
+0x980b9f2dadd0	0xf807752c0000	0x1a000	SgrmAgent	SgrmAgent	\Driver\SgrmAgent
+0x980b9f2dbdd0	0xf807752e0000	0xcc000	ACPI	ACPI	\Driver\ACPI
+0x980b9f2dcdd0	0xf8076fb30000	0xd000	MsSecCore	MsSecCore	\Driver\MsSecCore
+0x980ba19674f0	0xf80775560000	0x15000	vdrvroot	vdrvroot	\Driver\vdrvroot
+0x980ba1a57060	0xf807756c0000	0x32000	storahci	storahci	\Driver\storahci
+0x980ba1a58060	0xf80775630000	0x63000	volmgrx	volmgrx	\Driver\volmgrx
+0x980ba1a58270	0xf807756a0000	0x1e000	mountmgr	mountmgr	\Driver\mountmgr
+0x980ba1a59060	0xf80775610000	0x19000	volmgr	volmgr	\Driver\volmgr
+0x980ba1a5a530	0xf807755d0000	0x31000	partmgr	partmgr	\Driver\partmgr
+0x980ba1a5c6b0	0xf80775580000	0x2f000	pdc	pdc	\Driver\pdc
+0x980ba1a5e570	0xf80775540000	0x14000	pcw	pcw	\Driver\pcw
+0x980ba1a81e50	0xf807946b0000	0x4e000	ahcache	ahcache	\Driver\ahcache
+0x980ba1a854f0	0x0	0x0	-	RAW	\FileSystem\RAW
+0x980ba1b039f0	0xf80775440000	0x45000	TPM	TPM	\Driver\TPM
+0x980ba1b0acc0	0xf80775820000	0x1a000	FileInfo	FileInfo	\FileSystem\FileInfo
+0x980ba1b45470	0xf807757c0000	0x2f000	stornvme	stornvme	\Driver\stornvme
+0x980ba1b54400	0xf80776130000	0x30000	WFPLWFS	WFPLWFS	\Driver\WFPLWFS
+0x980ba1b54cb0	0xf80775800000	0x1c000	EhStorClass	EhStorClass	\Driver\EhStorClass
+0x980ba59f2680	0xf8076f990000	0x6d000	FltMgr	FltMgr	\FileSystem\FltMgr
+0x980ba59f9060	0xf80775840000	0x40000	Wof	Wof	\FileSystem\Wof
+0x980ba59fa720	0xf8076f7d0000	0x6d000	CLFS	CLFS	\Driver\CLFS
+0x980ba59fac00	0xf80775890000	0x2d7000	Ntfs	Ntfs	\FileSystem\Ntfs
+0x980ba59fc8f0	0xf8076fa00000	0x29000	KSecDD	KSecDD	\Driver\KSecDD
+0x980ba59fd8f0	0xf807757f0000	0xd000	Fs_Rec	Fs_Rec	\FileSystem\Fs_Rec
+0x980ba5a43e20	0xf80775b70000	0x16f000	NDIS	NDIS	\Driver\NDIS
+0x980ba5a44d40	0xf80775d80000	0x32000	KSecPkg	KSecPkg	\Driver\KSecPkg
+0x980ba5a4ac00	0xf80775dc0000	0x2ed000	Tcpip	Tcpip	\Driver\Tcpip
+0x980ba5ab9dc0	0xf80776360000	0x1f000	disk	disk	\Driver\disk
+0x980ba5abfd80	0xf80776240000	0xb000	volume	volume	\Driver\volume
+0x980ba5ac0d80	0xf80776250000	0x6d000	volsnap	volsnap	\Driver\volsnap
+0x980ba5ac3e00	0xf807933d0000	0x11000	BasicRender	BasicRender	\Driver\BasicRender
+0x980ba5b15d80	0xf807762c0000	0x2e000	SysmonDrv	SysmonDrv	\Driver\SysmonDrv
+0x980ba5b2ce00	0xf80776320000	0x12000	iorate	iorate	\Driver\iorate
+0x980ba5b3fe20	0xf8078eef0000	0x4419000	vgk	vgk	\Driver\vgk
+0x980ba5b6fe00	0xf807933b0000	0x16000	BasicDisplay	BasicDisplay	\Driver\BasicDisplay
+0x980ba5b75b50	0xf807ae610000	0x6d000	fastfat	fastfat	\FileSystem\fastfat
+0x980ba5b7e8f0	0xf807ae330000	0x32000	GPIOClx0101	GPIOClx0101	\Driver\GPIOClx0101
+0x980ba5bd5be0	0xf807ae680000	0x34000	usbccgp	usbccgp	\Driver\usbccgp
+Traceback (most recent call last):
+  File "vol.py", line 11, in <module>
+  File "volatility3\cli\__init__.py", line 927, in main
+  File "volatility3\cli\__init__.py", line 515, in run
+  File "volatility3\cli\text_renderer.py", line 330, in render
+  File "volatility3\framework\renderers\__init__.py", line 323, in populate
+  File "volatility3\cli\text_renderer.py", line 325, in visitor
+  File "encodings\cp1252.py", line 19, in encode
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 45-49: character maps to <undefined>
+[PYI-15324:ERROR] Failed to execute script 'vol' due to unhandled exception!
+
+Time Stamp: Sat Aug 15 21:43:47 2026
+
+
+******* End of command output ******
+
+Time Stamp: Sat Aug 15 21:44:01 2026
+
+"C:\Users\1533\Downloads\VolatilityWorkbench\vol.exe" -f "C:\Users\1533\Documents\awdd\fffffffw.raw" windows.ssdt.SSDT 
+Volatility 3 Framework 2.26.2
+Index	Address	Module	Symbol
+0	0xf8077192b1d0	ntoskrnl	NtAccessCheck
+1	0xf8077194b040	ntoskrnl	NtWorkerFactoryWorkerReady
+2	0xf80771d1a6d0	ntoskrnl	NtAcceptConnectPort
+3	0xf80771ed96a0	ntoskrnl	NtMapUserPhysicalPagesScatter
+4	0xf80771c45cc0	ntoskrnl	NtWaitForSingleObject
+5	0xf80771a01ec0	ntoskrnl	NtCallbackReturn
+6	0xf80771c0b360	ntoskrnl	NtReadFile
+7	0xf80771c44180	ntoskrnl	NtDeviceIoControlFile
+8	0xf80771c0a5e0	ntoskrnl	NtWriteFile
+9	0xf80771ce8100	ntoskrnl	NtRemoveIoCompletion
+10	0xf80771ce7600	ntoskrnl	NtReleaseSemaphore
+11	0xf80771c1c410	ntoskrnl	NtReplyWaitReceivePort
+12	0xf80771cba590	ntoskrnl	NtReplyPort
+13	0xf80771c43060	ntoskrnl	NtSetInformationThread
+14	0xf80771ce7bf0	ntoskrnl	NtSetEvent
+15	0xf80771c45e10	ntoskrnl	NtClose
+16	0xf80771cc2000	ntoskrnl	NtQueryObject
+17	0xf80771c422e0	ntoskrnl	NtQueryInformationFile
+18	0xf80771cf87d0	ntoskrnl	NtOpenKey
+19	0xf80771c39df0	ntoskrnl	NtEnumerateValueKey
+20	0xf80771c63c70	ntoskrnl	NtFindAtom
+21	0xf80771d04dd0	ntoskrnl	NtQueryDefaultLocale
+22	0xf80771c4da00	ntoskrnl	NtQueryKey
+23	0xf80771c4cf70	ntoskrnl	NtQueryValueKey
+24	0xf80771c3fc80	ntoskrnl	NtAllocateVirtualMemory
+25	0xf80771cc4920	ntoskrnl	NtQueryInformationProcess
+26	0xf80771cf8d60	ntoskrnl	NtWaitForMultipleObjects32
+27	0xf80771cff180	ntoskrnl	NtWriteFileGather
+28	0xf80771ca3ac0	ntoskrnl	NtSetInformationProcess
+29	0xf80771c6e890	ntoskrnl	NtCreateKey
+30	0xf80771c5c3a0	ntoskrnl	NtFreeVirtualMemory
+31	0xf80771ec46e0	ntoskrnl	NtImpersonateClientOfPort
+32	0xf80771ce82a0	ntoskrnl	NtReleaseMutant
+33	0xf80771c12920	ntoskrnl	NtQueryInformationToken
+34	0xf80771cf93b0	ntoskrnl	NtRequestWaitReplyPort
+35	0xf80771c597a0	ntoskrnl	NtQueryVirtualMemory
+36	0xf80771c1d4f0	ntoskrnl	NtOpenThreadToken
+37	0xf80771c1b480	ntoskrnl	NtQueryInformationThread
+38	0xf80771bd9820	ntoskrnl	NtOpenProcess
+39	0xf80771834e20	ntoskrnl	NtSetInformationFile
+40	0xf80771c58be0	ntoskrnl	NtMapViewOfSection
+41	0xf80771c2ad00	ntoskrnl	NtAccessCheckAndAuditAlarm
+42	0xf80771c8fa30	ntoskrnl	NtUnmapViewOfSection
+43	0xf80771c1c430	ntoskrnl	NtReplyWaitReceivePortEx
+44	0xf80771c83180	ntoskrnl	NtTerminateProcess
+45	0xf80771f51ad0	ntoskrnl	NtSetEventBoostPriority
+46	0xf80771cfe9e0	ntoskrnl	NtReadFileScatter
+47	0xf80771c1d510	ntoskrnl	NtOpenThreadTokenEx
+48	0xf80771c1dcd0	ntoskrnl	NtOpenProcessTokenEx
+49	0xf80771c084c0	ntoskrnl	NtQueryPerformanceCounter
+50	0xf80771c39350	ntoskrnl	NtEnumerateKey
+51	0xf80771c9a050	ntoskrnl	NtOpenFile
+52	0xf80771c8bdd0	ntoskrnl	NtDelayExecution
+53	0xf80771d065f0	ntoskrnl	NtQueryDirectoryFile
+54	0xf80771c0e880	ntoskrnl	NtQuerySystemInformation
+55	0xf80771cf7fe0	ntoskrnl	NtOpenSection
+56	0xf80771f518c0	ntoskrnl	NtQueryTimer
+57	0xf80771cf8260	ntoskrnl	NtFsControlFile
+58	0xf80771d14100	ntoskrnl	NtWriteVirtualMemory
+59	0xf80771d05420	ntoskrnl	NtCloseObjectAuditAlarm
+60	0xf80771cedf60	ntoskrnl	NtDuplicateObject
+61	0xf80771ceb7f0	ntoskrnl	NtQueryAttributesFile
+62	0xf80771cece40	ntoskrnl	NtClearEvent
+63	0xf80771c3b660	ntoskrnl	NtReadVirtualMemory
+64	0xf80771cfe4e0	ntoskrnl	NtOpenEvent
+65	0xf80771c27f90	ntoskrnl	NtAdjustPrivilegesToken
+66	0xf80771c1eae0	ntoskrnl	NtDuplicateToken
+67	0xf807719fde20	ntoskrnl	NtContinue
+68	0xf80771d8ea90	ntoskrnl	NtQueryDefaultUILanguage
+69	0xf80771d1bc60	ntoskrnl	NtQueueApcThread
+70	0xf8077192d9d0	ntoskrnl	NtYieldExecution
+71	0xf80771f592a0	ntoskrnl	NtAddAtom
+72	0xf80771c1f270	ntoskrnl	NtCreateEvent
+73	0xf80771c0e320	ntoskrnl	NtQueryVolumeInformationFile
+74	0xf80771c1c9d0	ntoskrnl	NtCreateSection
+75	0xf80771cfd560	ntoskrnl	NtFlushBuffersFile
+76	0xf80771cc4030	ntoskrnl	NtApphelpCacheControl
+77	0xf80771f09650	ntoskrnl	NtCreateProcessEx
+78	0xf80771f096f0	ntoskrnl	NtCreateThread
+79	0xf80771d048f0	ntoskrnl	NtIsProcessInJob
+80	0xf80771c3e380	ntoskrnl	NtProtectVirtualMemory
+81	0xf80771d0add0	ntoskrnl	NtQuerySection
+82	0xf80771cfb3d0	ntoskrnl	NtResumeThread
+83	0xf80771cac1c0	ntoskrnl	NtTerminateThread
+84	0xf80771ec47e0	ntoskrnl	NtReadRequestData
+85	0xf80771c3fee0	ntoskrnl	NtCreateFile
+86	0xf80771d11200	ntoskrnl	NtQueryEvent
+87	0xf80771ec4960	ntoskrnl	NtWriteRequestData
+88	0xf80771cf7f10	ntoskrnl	NtOpenDirectoryObject
+89	0xf80771d05d20	ntoskrnl	NtAccessCheckByTypeAndAuditAlarm
+90	0xf80771f4e340	ntoskrnl	NtQuerySystemTime
+91	0xf80771c8b580	ntoskrnl	NtWaitForMultipleObjects
+92	0xf80771cfa2e0	ntoskrnl	NtSetInformationObject
+93	0xf80771caa3a0	ntoskrnl	NtCancelIoFile
+94	0xf807718bbd30	ntoskrnl	NtTraceEvent
+95	0xf80771c7b140	ntoskrnl	NtPowerInformation
+96	0xf80771c333f0	ntoskrnl	NtSetValueKey
+97	0xf807718befb0	ntoskrnl	NtCancelTimer
+98	0xf80771979160	ntoskrnl	NtSetTimer
+99	0xf8077192b160	ntoskrnl	NtAccessCheckByType
+100	0xf80771b96260	ntoskrnl	NtAccessCheckByTypeResultList
+101	0xf80771f23830	ntoskrnl	NtAccessCheckByTypeResultListAndAuditAlarm
+102	0xf80771f238e0	ntoskrnl	NtAccessCheckByTypeResultListAndAuditAlarmByHandle
+103	0xf80771f593d0	ntoskrnl	NtAcquireCrossVmMutant
+104	0xf80771d31750	ntoskrnl	NtAcquireProcessActivityReference
+105	0xf80771d04f00	ntoskrnl	NtAddAtomEx
+106	0xf80771f55640	ntoskrnl	NtAddBootEntry
+107	0xf80771f55670	ntoskrnl	NtAddDriverEntry
+108	0xf80771cb69e0	ntoskrnl	NtAdjustGroupsToken
+109	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+109	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+109	0xf80771d26220	ntoskrnl	NtCreateEventPair
+109	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+109	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+109	0xf80771d26220	ntoskrnl	NtOpenEventPair
+109	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+109	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+109	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+109	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+109	0xf80771d26220	ntoskrnl	NtVdmControl
+109	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+109	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+109	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+109	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+109	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+109	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+109	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+109	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+110	0xf80771f0ec60	ntoskrnl	NtAlertResumeThread
+111	0xf80771f0ed80	ntoskrnl	NtAlertThread
+112	0xf80771cc92e0	ntoskrnl	NtAlertThreadByThreadId
+113	0xf80771cec5c0	ntoskrnl	NtAllocateLocallyUniqueId
+114	0xf80771d14b40	ntoskrnl	NtAllocateReserveObject
+115	0xf80771ed8ec0	ntoskrnl	NtAllocateUserPhysicalPages
+116	0xf80771ed8ee0	ntoskrnl	NtAllocateUserPhysicalPagesEx
+117	0xf80771d1b3c0	ntoskrnl	NtAllocateUuids
+118	0xf80771c3e9c0	ntoskrnl	NtAllocateVirtualMemoryEx
+119	0xf80771cbc500	ntoskrnl	NtAlpcAcceptConnectPort
+120	0xf80771d21360	ntoskrnl	NtAlpcCancelMessage
+121	0xf80771cba7b0	ntoskrnl	NtAlpcConnectPort
+122	0xf80771cba830	ntoskrnl	NtAlpcConnectPortEx
+123	0xf80771d0bc80	ntoskrnl	NtAlpcCreatePort
+124	0xf80771cc1860	ntoskrnl	NtAlpcCreatePortSection
+125	0xf80771cf82d0	ntoskrnl	NtAlpcCreateResourceReserve
+126	0xf80771cbf210	ntoskrnl	NtAlpcCreateSectionView
+127	0xf80771cbf7e0	ntoskrnl	NtAlpcCreateSecurityContext
+128	0xf80771cc1a30	ntoskrnl	NtAlpcDeletePortSection
+129	0xf80771ec5b70	ntoskrnl	NtAlpcDeleteResourceReserve
+130	0xf80771d02ff0	ntoskrnl	NtAlpcDeleteSectionView
+131	0xf80771cbf6e0	ntoskrnl	NtAlpcDeleteSecurityContext
+132	0xf80771cb9a10	ntoskrnl	NtAlpcDisconnectPort
+133	0xf80771ec4c30	ntoskrnl	NtAlpcImpersonateClientContainerOfPort
+134	0xf80771c1a540	ntoskrnl	NtAlpcImpersonateClientOfPort
+135	0xf80771cbcae0	ntoskrnl	NtAlpcOpenSenderProcess
+136	0xf80771d0dc90	ntoskrnl	NtAlpcOpenSenderThread
+137	0xf80771ce69d0	ntoskrnl	NtAlpcQueryInformation
+138	0xf80771ce8890	ntoskrnl	NtAlpcQueryInformationMessage
+139	0xf80771ec4e70	ntoskrnl	NtAlpcRevokeSecurityContext
+140	0xf80771c18520	ntoskrnl	NtAlpcSendWaitReceivePort
+141	0xf80771cf72f0	ntoskrnl	NtAlpcSetInformation
+142	0xf80771d1d980	ntoskrnl	NtAreMappedFilesTheSame
+143	0xf80771c83a70	ntoskrnl	NtAssignProcessToJobObject
+144	0xf80771924b50	ntoskrnl	NtAssociateWaitCompletionPacket
+145	0xf80771a07c10	ntoskrnl	NtCallEnclave
+146	0xf80771caa550	ntoskrnl	NtCancelIoFileEx
+147	0xf80771e96e90	ntoskrnl	NtCancelSynchronousIoFile
+148	0xf80771962ed0	ntoskrnl	NtCancelTimer2
+149	0xf807718b6f40	ntoskrnl	NtCancelWaitCompletionPacket
+150	0xf807719d0370	ntoskrnl	NtCommitComplete
+151	0xf807719d0390	ntoskrnl	NtCommitEnlistment
+152	0xf80771c6b6e0	ntoskrnl	NtCommitRegistryTransaction
+153	0xf807719d03b0	ntoskrnl	NtCommitTransaction
+154	0xf80771e6a870	ntoskrnl	NtCompactKeys
+155	0xf80771d03120	ntoskrnl	NtCompareObjects
+156	0xf80771d1d630	ntoskrnl	NtCompareSigningLevels
+157	0xf80771cd9b70	ntoskrnl	NtCompareTokens
+158	0xf80771d1d080	ntoskrnl	ArbPreprocessEntry
+158	0xf80771d1d080	ntoskrnl	ArbQueryArbitrate
+158	0xf80771d1d080	ntoskrnl	EmFalseCallback
+158	0xf80771d1d080	ntoskrnl	FsRtlSyncVolumes
+158	0xf80771d1d080	ntoskrnl	IopPnPAddDevice
+158	0xf80771d1d080	ntoskrnl	NtCompleteConnectPort
+158	0xf80771d1d080	ntoskrnl	NtFlushInstructionCache
+158	0xf80771d1d080	ntoskrnl	NtFlushWriteBuffer
+158	0xf80771d1d080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+158	0xf80771d1d080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+158	0xf80771d1d080	ntoskrnl	xHalAcpiGetMultiNode
+158	0xf80771d1d080	ntoskrnl	xHalAddInterruptRemapping
+158	0xf80771d1d080	ntoskrnl	xHalGetInterruptTranslator
+158	0xf80771d1d080	ntoskrnl	xHalPowerSetRebootHandler
+158	0xf80771d1d080	ntoskrnl	xHalTimerQueryCycleCounter
+159	0xf80771e6ab50	ntoskrnl	NtCompressKey
+160	0xf80771cb9ab0	ntoskrnl	NtConnectPort
+161	0xf807719fde30	ntoskrnl	NtContinueEx
+162	0xf80771f5d0e0	ntoskrnl	NtConvertBetweenAuxiliaryCounterAndPerformanceCounter
+163	0xf80771bce400	ntoskrnl	NtCopyFileChunk
+164	0xf80771f51a20	ntoskrnl	NtCreateCrossVmEvent
+165	0xf80771f594a0	ntoskrnl	NtCreateCrossVmMutant
+166	0xf80771e88330	ntoskrnl	NtCreateDebugObject
+167	0xf80771d06350	ntoskrnl	NtCreateDirectoryObject
+168	0xf80771d06330	ntoskrnl	NtCreateDirectoryObjectEx
+169	0xf80771ed6420	ntoskrnl	NtCreateEnclave
+170	0xf807719d03d0	ntoskrnl	NtCreateEnlistment
+171	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+171	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+171	0xf80771d26220	ntoskrnl	NtCreateEventPair
+171	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+171	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+171	0xf80771d26220	ntoskrnl	NtOpenEventPair
+171	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+171	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+171	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+171	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+171	0xf80771d26220	ntoskrnl	NtVdmControl
+171	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+171	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+171	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+171	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+171	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+171	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+171	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+171	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+172	0xf80771d8ea60	ntoskrnl	NtCreateIRTimer
+173	0xf80771d01de0	ntoskrnl	NtCreateIoCompletion
+174	0xf80771c83550	ntoskrnl	NtCreateJobObject
+175	0xf80771d26140	ntoskrnl	ArbAddReserved
+175	0xf80771d26140	ntoskrnl	HalpAssignSlotResourcesStub
+175	0xf80771d26140	ntoskrnl	HalpGetMceInformation
+175	0xf80771d26140	ntoskrnl	LpcReplyWaitReplyPort
+175	0xf80771d26140	ntoskrnl	MmAllocateMemoryRanges
+175	0xf80771d26140	ntoskrnl	MmConfigureGraphicsPtes
+175	0xf80771d26140	ntoskrnl	MmFreeMemoryRanges
+175	0xf80771d26140	ntoskrnl	MmQueryMemoryRanges
+175	0xf80771d26140	ntoskrnl	NtCreateJobSet
+175	0xf80771d26140	ntoskrnl	xHalAllocatePmcCounterSet
+175	0xf80771d26140	ntoskrnl	xHalDpReplaceBegin
+175	0xf80771d26140	ntoskrnl	xHalGetProcessorId
+175	0xf80771d26140	ntoskrnl	xHalQueryBusSlots
+175	0xf80771d26140	ntoskrnl	xHalRegisterBusHandler
+175	0xf80771d26140	ntoskrnl	xHalStartMirroring
+176	0xf80771d69b10	ntoskrnl	NtCreateKeyTransacted
+177	0xf80771dc57c0	ntoskrnl	NtCreateKeyedEvent
+178	0xf80771c7a960	ntoskrnl	NtCreateLowBoxToken
+179	0xf80771bd84b0	ntoskrnl	NtCreateMailslotFile
+180	0xf80771cddea0	ntoskrnl	NtCreateMutant
+181	0xf80771d0b400	ntoskrnl	NtCreateNamedPipeFile
+182	0xf80771db7210	ntoskrnl	NtCreatePagingFile
+183	0xf80771f0f450	ntoskrnl	NtCreatePartition
+184	0xf80771d72cd0	ntoskrnl	NtCreatePort
+185	0xf80771cb3a40	ntoskrnl	NtCreatePrivateNamespace
+186	0xf80771f095c0	ntoskrnl	NtCreateProcess
+187	0xf80771f5d210	ntoskrnl	NtCreateProfile
+188	0xf80771f5d2f0	ntoskrnl	NtCreateProfileEx
+189	0xf80771d1e2b0	ntoskrnl	NtCreateRegistryTransaction
+190	0xf807719d03f0	ntoskrnl	NtCreateResourceManager
+191	0xf80771eca0f0	ntoskrnl	NtCreateSectionEx
+192	0xf80771c1f0a0	ntoskrnl	NtCreateSemaphore
+193	0xf80771d0d2e0	ntoskrnl	NtCreateSymbolicLinkObject
+194	0xf80771beae40	ntoskrnl	NtCreateThreadEx
+195	0xf80771c89be0	ntoskrnl	NtCreateTimer
+196	0xf80771c7f480	ntoskrnl	NtCreateTimer2
+197	0xf80771f24dc0	ntoskrnl	NtCreateToken
+198	0xf80771cb8850	ntoskrnl	NtCreateTokenEx
+199	0xf807719d0410	ntoskrnl	NtCreateTransaction
+200	0xf807719d0430	ntoskrnl	NtCreateTransactionManager
+201	0xf80771bec770	ntoskrnl	NtCreateUserProcess
+202	0xf80771cf9530	ntoskrnl	NtCreateWaitCompletionPacket
+203	0xf80771d8e2a0	ntoskrnl	NtCreateWaitablePort
+204	0xf80771bee4d0	ntoskrnl	NtCreateWnfStateName
+205	0xf80771c7f0b0	ntoskrnl	NtCreateWorkerFactory
+206	0xf80771e88530	ntoskrnl	NtDebugActiveProcess
+207	0xf80771e88700	ntoskrnl	NtDebugContinue
+208	0xf80771d027a0	ntoskrnl	NtDeleteAtom
+209	0xf80771f556a0	ntoskrnl	NtDeleteBootEntry
+210	0xf80771f55830	ntoskrnl	NtDeleteDriverEntry
+211	0xf80771d7c9e0	ntoskrnl	NtDeleteFile
+212	0xf80771bfc990	ntoskrnl	NtDeleteKey
+213	0xf80771d34e80	ntoskrnl	NtDeleteObjectAuditAlarm
+214	0xf80771ee1cf0	ntoskrnl	NtDeletePrivateNamespace
+215	0xf80771bff2e0	ntoskrnl	NtDeleteValueKey
+216	0xf80771dcd0f0	ntoskrnl	NtDeleteWnfStateData
+217	0xf80771bee1c0	ntoskrnl	NtDeleteWnfStateName
+218	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+218	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+218	0xf80771d26220	ntoskrnl	NtCreateEventPair
+218	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+218	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+218	0xf80771d26220	ntoskrnl	NtOpenEventPair
+218	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+218	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+218	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+218	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+218	0xf80771d26220	ntoskrnl	NtVdmControl
+218	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+218	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+218	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+218	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+218	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+218	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+218	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+218	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+219	0xf80771d7cd90	ntoskrnl	NtDisableLastKnownGood
+220	0xf80771f4eb30	ntoskrnl	NtDisplayString
+221	0xf80771bb2cb0	ntoskrnl	NtDrawText
+222	0xf80771d7c180	ntoskrnl	NtEnableLastKnownGood
+223	0xf80771f559c0	ntoskrnl	NtEnumerateBootEntries
+224	0xf80771f56010	ntoskrnl	NtEnumerateDriverEntries
+225	0xf80771f564d0	ntoskrnl	NtEnumerateSystemEnvironmentValuesEx
+226	0xf807719d0450	ntoskrnl	NtEnumerateTransactionObject
+227	0xf80771cea140	ntoskrnl	NtExtendSection
+228	0xf80771f26450	ntoskrnl	NtFilterBootOption
+229	0xf80771cb5750	ntoskrnl	NtFilterToken
+230	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+230	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+230	0xf80771d26220	ntoskrnl	NtCreateEventPair
+230	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+230	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+230	0xf80771d26220	ntoskrnl	NtOpenEventPair
+230	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+230	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+230	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+230	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+230	0xf80771d26220	ntoskrnl	NtVdmControl
+230	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+230	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+230	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+230	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+230	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+230	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+230	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+230	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+231	0xf80771cfd590	ntoskrnl	NtFlushBuffersFileEx
+232	0xf80771dcf390	ntoskrnl	NtFlushInstallUILanguage
+233	0xf80771d1d080	ntoskrnl	ArbPreprocessEntry
+233	0xf80771d1d080	ntoskrnl	ArbQueryArbitrate
+233	0xf80771d1d080	ntoskrnl	EmFalseCallback
+233	0xf80771d1d080	ntoskrnl	FsRtlSyncVolumes
+233	0xf80771d1d080	ntoskrnl	IopPnPAddDevice
+233	0xf80771d1d080	ntoskrnl	NtCompleteConnectPort
+233	0xf80771d1d080	ntoskrnl	NtFlushInstructionCache
+233	0xf80771d1d080	ntoskrnl	NtFlushWriteBuffer
+233	0xf80771d1d080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+233	0xf80771d1d080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+233	0xf80771d1d080	ntoskrnl	xHalAcpiGetMultiNode
+233	0xf80771d1d080	ntoskrnl	xHalAddInterruptRemapping
+233	0xf80771d1d080	ntoskrnl	xHalGetInterruptTranslator
+233	0xf80771d1d080	ntoskrnl	xHalPowerSetRebootHandler
+233	0xf80771d1d080	ntoskrnl	xHalTimerQueryCycleCounter
+234	0xf80771d154b0	ntoskrnl	NtFlushKey
+235	0xf807718b9050	ntoskrnl	NtFlushProcessWriteBuffers
+236	0xf80771ce9d00	ntoskrnl	NtFlushVirtualMemory
+237	0xf80771d1d080	ntoskrnl	ArbPreprocessEntry
+237	0xf80771d1d080	ntoskrnl	ArbQueryArbitrate
+237	0xf80771d1d080	ntoskrnl	EmFalseCallback
+237	0xf80771d1d080	ntoskrnl	FsRtlSyncVolumes
+237	0xf80771d1d080	ntoskrnl	IopPnPAddDevice
+237	0xf80771d1d080	ntoskrnl	NtCompleteConnectPort
+237	0xf80771d1d080	ntoskrnl	NtFlushInstructionCache
+237	0xf80771d1d080	ntoskrnl	NtFlushWriteBuffer
+237	0xf80771d1d080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+237	0xf80771d1d080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+237	0xf80771d1d080	ntoskrnl	xHalAcpiGetMultiNode
+237	0xf80771d1d080	ntoskrnl	xHalAddInterruptRemapping
+237	0xf80771d1d080	ntoskrnl	xHalGetInterruptTranslator
+237	0xf80771d1d080	ntoskrnl	xHalPowerSetRebootHandler
+237	0xf80771d1d080	ntoskrnl	xHalTimerQueryCycleCounter
+238	0xf80771ed8f00	ntoskrnl	NtFreeUserPhysicalPages
+239	0xf80771e6ad30	ntoskrnl	NtFreezeRegistry
+240	0xf807719d0470	ntoskrnl	NtFreezeTransactions
+241	0xf80771d04570	ntoskrnl	NtGetCachedSigningLevel
+242	0xf80771beecc0	ntoskrnl	NtGetCompleteWnfStateSubscription
+243	0xf80771d1e170	ntoskrnl	NtGetContextThread
+244	0xf80771f09e70	ntoskrnl	NtGetCurrentProcessorNumber
+245	0xf80771f09ed0	ntoskrnl	NtGetCurrentProcessorNumberEx
+246	0xf80771ef2a30	ntoskrnl	NtGetDevicePowerState
+247	0xf80771d021c0	ntoskrnl	NtGetMUIRegistryInfo
+248	0xf80771d8a640	ntoskrnl	NtGetNextProcess
+249	0xf80771d15fa0	ntoskrnl	NtGetNextThread
+250	0xf80771d1b690	ntoskrnl	NtGetNlsSectionPtr
+251	0xf807719d0490	ntoskrnl	NtGetNotificationResourceManager
+252	0xf8077187ed80	ntoskrnl	NtGetWriteWatch
+253	0xf80771cd96a0	ntoskrnl	NtImpersonateAnonymousToken
+254	0xf80771cdd580	ntoskrnl	NtImpersonateThread
+255	0xf80771ed6870	ntoskrnl	NtInitializeEnclave
+256	0xf80771bf3830	ntoskrnl	NtInitializeNlsFiles
+257	0xf80771d8d290	ntoskrnl	NtInitializeRegistry
+258	0xf80771d74d50	ntoskrnl	NtInitiatePowerAction
+259	0xf80771d7a280	ntoskrnl	NtIsSystemResumeAutomatic
+260	0xf80771d71fa0	ntoskrnl	NtIsUILanguageComitted
+261	0xf80771dd3b80	ntoskrnl	NtListenPort
+262	0xf80771d7fde0	ntoskrnl	NtLoadDriver
+263	0xf80771ed6b50	ntoskrnl	NtLoadEnclaveData
+264	0xf80771d81910	ntoskrnl	NtLoadKey
+265	0xf80771d818b0	ntoskrnl	NtLoadKey2
+266	0xf80771c6d760	ntoskrnl	NtLoadKeyEx
+267	0xf80771ced8f0	ntoskrnl	NtLockFile
+268	0xf80771db4980	ntoskrnl	NtLockProductActivationKeys
+269	0xf80771dc3830	ntoskrnl	NtLockRegistryKey
+270	0xf807718ddfe0	ntoskrnl	NtLockVirtualMemory
+271	0xf80771d31f50	ntoskrnl	NtMakePermanentObject
+272	0xf80771d1fdd0	ntoskrnl	NtMakeTemporaryObject
+273	0xf80771ed1440	ntoskrnl	NtManageHotPatch
+274	0xf80771bf67f0	ntoskrnl	NtManagePartition
+275	0xf80771f5c120	ntoskrnl	NtMapCMFModule
+276	0xf80771ed93e0	ntoskrnl	NtMapUserPhysicalPages
+277	0xf80771d1d4c0	ntoskrnl	NtMapViewOfSectionEx
+278	0xf80771f56790	ntoskrnl	NtModifyBootEntry
+279	0xf80771f567c0	ntoskrnl	NtModifyDriverEntry
+280	0xf80771d100e0	ntoskrnl	NtNotifyChangeDirectoryFile
+281	0xf80771d10140	ntoskrnl	NtNotifyChangeDirectoryFileEx
+282	0xf80771c09530	ntoskrnl	NtNotifyChangeKey
+283	0xf80771c095a0	ntoskrnl	NtNotifyChangeMultipleKeys
+284	0xf80771cfa8a0	ntoskrnl	NtNotifyChangeSession
+285	0xf807719d04b0	ntoskrnl	NtOpenEnlistment
+286	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+286	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+286	0xf80771d26220	ntoskrnl	NtCreateEventPair
+286	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+286	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+286	0xf80771d26220	ntoskrnl	NtOpenEventPair
+286	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+286	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+286	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+286	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+286	0xf80771d26220	ntoskrnl	NtVdmControl
+286	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+286	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+286	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+286	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+286	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+286	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+286	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+286	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+287	0xf80771e96be0	ntoskrnl	NtOpenIoCompletion
+288	0xf80771bd89c0	ntoskrnl	NtOpenJobObject
+289	0xf80771c520b0	ntoskrnl	NtOpenKeyEx
+290	0xf80771e6add0	ntoskrnl	NtOpenKeyTransacted
+291	0xf80771c6ba50	ntoskrnl	NtOpenKeyTransactedEx
+292	0xf80771f5d740	ntoskrnl	NtOpenKeyedEvent
+293	0xf80771d05640	ntoskrnl	NtOpenMutant
+294	0xf80771d0a810	ntoskrnl	NtOpenObjectAuditAlarm
+295	0xf80771dd12c0	ntoskrnl	NtOpenPartition
+296	0xf80771cb3870	ntoskrnl	NtOpenPrivateNamespace
+297	0xf80771c1dcb0	ntoskrnl	NtOpenProcessToken
+298	0xf80771e6adf0	ntoskrnl	NtOpenRegistryTransaction
+299	0xf807719d04d0	ntoskrnl	NtOpenResourceManager
+300	0xf80771d06170	ntoskrnl	NtOpenSemaphore
+301	0xf80771d204a0	ntoskrnl	NtOpenSession
+302	0xf80771ceb720	ntoskrnl	NtOpenSymbolicLinkObject
+303	0xf80771c2a8b0	ntoskrnl	NtOpenThread
+304	0xf80771f51810	ntoskrnl	NtOpenTimer
+305	0xf807719d04f0	ntoskrnl	NtOpenTransaction
+306	0xf807719d0510	ntoskrnl	NtOpenTransactionManager
+307	0xf80771ccb0e0	ntoskrnl	NtPlugPlayControl
+308	0xf807719d0530	ntoskrnl	NtPrePrepareComplete
+309	0xf807719d0550	ntoskrnl	NtPrePrepareEnlistment
+310	0xf807719d0570	ntoskrnl	NtPrepareComplete
+311	0xf807719d0590	ntoskrnl	NtPrepareEnlistment
+312	0xf80771cfe2f0	ntoskrnl	NtPrivilegeCheck
+313	0xf80771d8b7b0	ntoskrnl	NtPrivilegeObjectAuditAlarm
+314	0xf80771d19340	ntoskrnl	NtPrivilegedServiceAuditAlarm
+315	0xf807719d05b0	ntoskrnl	NtPropagationComplete
+316	0xf807719d05d0	ntoskrnl	NtPropagationFailed
+317	0xf80771f5e540	ntoskrnl	NtPssCaptureVaSpaceBulk
+318	0xf80771cee8b0	ntoskrnl	NtPulseEvent
+319	0xf80771f5d360	ntoskrnl	NtQueryAuxiliaryCounterFrequency
+320	0xf80771f567f0	ntoskrnl	NtQueryBootEntryOrder
+321	0xf80771f56a70	ntoskrnl	NtQueryBootOptions
+322	0xf80771964da0	ntoskrnl	NtQueryDebugFilterState
+323	0xf80771c0c0d0	ntoskrnl	NtQueryDirectoryFileEx
+324	0xf80771c26f30	ntoskrnl	NtQueryDirectoryObject
+325	0xf80771f56d70	ntoskrnl	NtQueryDriverEntryOrder
+326	0xf80771d00350	ntoskrnl	NtQueryEaFile
+327	0xf80771cebdb0	ntoskrnl	NtQueryFullAttributesFile
+328	0xf80771d04c20	ntoskrnl	NtQueryInformationAtom
+329	0xf80771e96f80	ntoskrnl	NtQueryInformationByName
+330	0xf807719d05f0	ntoskrnl	NtQueryInformationEnlistment
+331	0xf80771c04630	ntoskrnl	NtQueryInformationJobObject
+332	0xf80771ec4710	ntoskrnl	NtQueryInformationPort
+333	0xf807719d0610	ntoskrnl	NtQueryInformationResourceManager
+334	0xf807719d0630	ntoskrnl	NtQueryInformationTransaction
+335	0xf807719d0650	ntoskrnl	NtQueryInformationTransactionManager
+336	0xf80771bb9d30	ntoskrnl	NtQueryInformationWorkerFactory
+337	0xf80771d14e60	ntoskrnl	NtQueryInstallUILanguage
+338	0xf80771d343d0	ntoskrnl	NtQueryIntervalProfile
+339	0xf80771e96d00	ntoskrnl	NtQueryIoCompletion
+340	0xf80771c83e50	ntoskrnl	NtQueryLicenseValue
+341	0xf80771ce4b80	ntoskrnl	NtQueryMultipleValueKey
+342	0xf80771f59550	ntoskrnl	NtQueryMutant
+343	0xf80771e6af40	ntoskrnl	NtQueryOpenSubKeys
+344	0xf80771e6b160	ntoskrnl	NtQueryOpenSubKeysEx
+345	0xf80771d26150	ntoskrnl	CmpCleanUpHigherLayerKcbCachesPreCallback
+345	0xf80771d26150	ntoskrnl	CmpInvalidateAllHigherLayerKcbsPreCallback
+345	0xf80771d26150	ntoskrnl	CmpPrepareToInvalidateAllHigherLayerKcbsPreCallback
+345	0xf80771d26150	ntoskrnl	HaliAcpiQueryFlags
+345	0xf80771d26150	ntoskrnl	NtQueryPortInformationProcess
+346	0xf80771e982c0	ntoskrnl	NtQueryQuotaInformationFile
+347	0xf80771bea040	ntoskrnl	NtQuerySecurityAttributesToken
+348	0xf80771ced6e0	ntoskrnl	NtQuerySecurityObject
+349	0xf80771f1e200	ntoskrnl	NtQuerySecurityPolicy
+350	0xf80771f59110	ntoskrnl	NtQuerySemaphore
+351	0xf80771cebaa0	ntoskrnl	NtQuerySymbolicLinkObject
+352	0xf80771f570a0	ntoskrnl	NtQuerySystemEnvironmentValue
+353	0xf80771d205c0	ntoskrnl	NtQuerySystemEnvironmentValueEx
+354	0xf80771cfff40	ntoskrnl	NtQuerySystemInformationEx
+355	0xf80771d1ea70	ntoskrnl	NtQueryTimerResolution
+356	0xf80771befc80	ntoskrnl	NtQueryWnfStateData
+357	0xf80771d08aa0	ntoskrnl	NtQueryWnfStateNameInformation
+358	0xf80771bd6c20	ntoskrnl	NtQueueApcThreadEx
+359	0xf80771bd0090	ntoskrnl	NtQueueApcThreadEx2
+360	0xf807719fe240	ntoskrnl	NtRaiseException
+361	0xf80771f58dc0	ntoskrnl	NtRaiseHardError
+362	0xf807719d0670	ntoskrnl	NtReadOnlyEnlistment
+363	0xf807719d0690	ntoskrnl	NtRecoverEnlistment
+364	0xf807719d06b0	ntoskrnl	NtRecoverResourceManager
+365	0xf807719d06d0	ntoskrnl	NtRecoverTransactionManager
+366	0xf807719d0bf0	ntoskrnl	NtRegisterProtocolAddressInformation
+367	0xf80771d1e5c0	ntoskrnl	NtRegisterThreadTerminatePort
+368	0xf80771f5d840	ntoskrnl	NtReleaseKeyedEvent
+369	0xf807718c2720	ntoskrnl	NtReleaseWorkerFactoryWorker
+370	0xf80771c14c60	ntoskrnl	NtRemoveIoCompletionEx
+371	0xf80771e88900	ntoskrnl	NtRemoveProcessDebug
+372	0xf80771e6b4a0	ntoskrnl	NtRenameKey
+373	0xf807719d0c10	ntoskrnl	NtRenameTransactionManager
+374	0xf80771e6b9a0	ntoskrnl	NtReplaceKey
+375	0xf80771bca6f0	ntoskrnl	NtReplacePartitionUnit
+376	0xf80771ec4840	ntoskrnl	NtReplyWaitReplyPort
+377	0xf80771d13380	ntoskrnl	NtRequestPort
+378	0xf80771bdf090	ntoskrnl	NtResetEvent
+379	0xf80771c5bec0	ntoskrnl	NtResetWriteWatch
+380	0xf80771e6bd30	ntoskrnl	NtRestoreKey
+381	0xf80771f0ee00	ntoskrnl	NtResumeProcess
+382	0xf80771b82380	ntoskrnl	NtRevertContainerImpersonation
+383	0xf807719d06f0	ntoskrnl	NtRollbackComplete
+384	0xf807719d0710	ntoskrnl	NtRollbackEnlistment
+385	0xf80771d339f0	ntoskrnl	NtRollbackRegistryTransaction
+386	0xf807719d0730	ntoskrnl	NtRollbackTransaction
+387	0xf807719d0c70	ntoskrnl	NtRollforwardTransactionManager
+388	0xf80771e6bfe0	ntoskrnl	NtSaveKey
+389	0xf80771d28d40	ntoskrnl	NtSaveKeyEx
+390	0xf80771e6c000	ntoskrnl	NtSaveMergedKeys
+391	0xf80771cb9b00	ntoskrnl	NtSecureConnectPort
+392	0xf80771dd2290	ntoskrnl	NtSerializeBoot
+393	0xf80771f573c0	ntoskrnl	NtSetBootEntryOrder
+394	0xf80771f575d0	ntoskrnl	NtSetBootOptions
+395	0xf80771d2aa10	ntoskrnl	NtSetCachedSigningLevel
+396	0xf80771d2aa40	ntoskrnl	NtSetCachedSigningLevel2
+397	0xf80771f0da50	ntoskrnl	NtSetContextThread
+398	0xf80771da5f70	ntoskrnl	NtSetDebugFilterState
+399	0xf80771dd1be0	ntoskrnl	NtSetDefaultHardErrorPort
+400	0xf80771d8bbe0	ntoskrnl	NtSetDefaultLocale
+401	0xf80771d8bbc0	ntoskrnl	NtSetDefaultUILanguage
+402	0xf80771f577e0	ntoskrnl	NtSetDriverEntryOrder
+403	0xf80771d31070	ntoskrnl	NtSetEaFile
+404	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+404	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+404	0xf80771d26220	ntoskrnl	NtCreateEventPair
+404	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+404	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+404	0xf80771d26220	ntoskrnl	NtOpenEventPair
+404	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+404	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+404	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+404	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+404	0xf80771d26220	ntoskrnl	NtVdmControl
+404	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+404	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+404	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+404	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+404	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+404	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+404	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+404	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+405	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+405	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+405	0xf80771d26220	ntoskrnl	NtCreateEventPair
+405	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+405	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+405	0xf80771d26220	ntoskrnl	NtOpenEventPair
+405	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+405	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+405	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+405	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+405	0xf80771d26220	ntoskrnl	NtVdmControl
+405	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+405	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+405	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+405	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+405	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+405	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+405	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+405	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+406	0xf80771963570	ntoskrnl	NtSetIRTimer
+407	0xf80771e88a70	ntoskrnl	NtSetInformationDebugObject
+408	0xf807719d0750	ntoskrnl	NtSetInformationEnlistment
+409	0xf80771bf4cf0	ntoskrnl	NtSetInformationJobObject
+410	0xf80771c38f00	ntoskrnl	NtSetInformationKey
+411	0xf807719d0770	ntoskrnl	NtSetInformationResourceManager
+412	0xf80771edf330	ntoskrnl	NtSetInformationSymbolicLink
+413	0xf80771be4930	ntoskrnl	NtSetInformationToken
+414	0xf807719d0790	ntoskrnl	NtSetInformationTransaction
+415	0xf807719d0c30	ntoskrnl	NtSetInformationTransactionManager
+416	0xf80771c60c20	ntoskrnl	NtSetInformationVirtualMemory
+417	0xf807718b5aa0	ntoskrnl	NtSetInformationWorkerFactory
+418	0xf80771d34690	ntoskrnl	NtSetIntervalProfile
+419	0xf80771cfac50	ntoskrnl	NtSetIoCompletion
+420	0xf80771ce0f40	ntoskrnl	NtSetIoCompletionEx
+421	0xf807719d00b0	ntoskrnl	BvgaSetVirtualFrameBuffer
+421	0xf807719d00b0	ntoskrnl	CcTestControl
+421	0xf807719d00b0	ntoskrnl	HalpInterruptGetParkingPageInformation
+421	0xf807719d00b0	ntoskrnl	HalpPicRequestInterrupt
+421	0xf807719d00b0	ntoskrnl	IommupHvConfigureDeviceDomain
+421	0xf807719d00b0	ntoskrnl	IommupHvFlushDeviceDomainVaList
+421	0xf807719d00b0	ntoskrnl	NtSetLdtEntries
+421	0xf807719d00b0	ntoskrnl	PspQueryDescriptorThread
+421	0xf807719d00b0	ntoskrnl	PspQueryLdtInformation
+421	0xf807719d00b0	ntoskrnl	PspSetLdtInformation
+421	0xf807719d00b0	ntoskrnl	PspSetLdtSize
+421	0xf807719d00b0	ntoskrnl	PspSetProcessIoHandlers
+421	0xf807719d00b0	ntoskrnl	SkIsSecureKernel
+421	0xf807719d00b0	ntoskrnl	xHalAllocateMapRegisters
+421	0xf807719d00b0	ntoskrnl	xHalConvertAuxiliaryCounterToPerformanceCounter
+421	0xf807719d00b0	ntoskrnl	xHalConvertPerformanceCounterToAuxiliaryCounter
+421	0xf807719d00b0	ntoskrnl	xHalGetIommuInterface
+421	0xf807719d00b0	ntoskrnl	xHalIommuBeginDeviceReset
+421	0xf807719d00b0	ntoskrnl	xHalIommuBlockDevice
+421	0xf807719d00b0	ntoskrnl	xHalIommuDevicePowerChange
+421	0xf807719d00b0	ntoskrnl	xHalIommuDisableDevicePasid
+421	0xf807719d00b0	ntoskrnl	xHalIommuEnableDevicePasid
+421	0xf807719d00b0	ntoskrnl	xHalIommuFinalizeDeviceReset
+421	0xf807719d00b0	ntoskrnl	xHalIommuFreeLibraryContext
+421	0xf807719d00b0	ntoskrnl	xHalIommuGetLibraryContext
+421	0xf807719d00b0	ntoskrnl	xHalIommuSetAddressSpace
+421	0xf807719d00b0	ntoskrnl	xHalIommuUnblockDevice
+421	0xf807719d00b0	ntoskrnl	xHalIommuUnmapDevice
+421	0xf807719d00b0	ntoskrnl	xHalQueryAuxiliaryCounterFrequency
+421	0xf807719d00b0	ntoskrnl	xHalTimerWatchdogTriggerSystemReset
+421	0xf807719d00b0	ntoskrnl	xKdEnumerateDebuggingDevices
+421	0xf807719d00b0	ntoskrnl	xKdReleaseIntegratedDeviceForDebugging
+421	0xf807719d00b0	ntoskrnl	xKdReleasePciDeviceForDebugging
+421	0xf807719d00b0	ntoskrnl	xKdSetupIntegratedDeviceForDebugging
+421	0xf807719d00b0	ntoskrnl	xKdSetupPciDeviceForDebugging
+422	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+422	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+422	0xf80771d26220	ntoskrnl	NtCreateEventPair
+422	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+422	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+422	0xf80771d26220	ntoskrnl	NtOpenEventPair
+422	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+422	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+422	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+422	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+422	0xf80771d26220	ntoskrnl	NtVdmControl
+422	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+422	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+422	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+422	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+422	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+422	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+422	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+422	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+423	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+423	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+423	0xf80771d26220	ntoskrnl	NtCreateEventPair
+423	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+423	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+423	0xf80771d26220	ntoskrnl	NtOpenEventPair
+423	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+423	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+423	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+423	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+423	0xf80771d26220	ntoskrnl	NtVdmControl
+423	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+423	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+423	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+423	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+423	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+423	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+423	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+423	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+424	0xf80771e98a00	ntoskrnl	NtSetQuotaInformationFile
+425	0xf80771cfbcd0	ntoskrnl	NtSetSecurityObject
+426	0xf80771f579f0	ntoskrnl	NtSetSystemEnvironmentValue
+427	0xf80771f57d10	ntoskrnl	NtSetSystemEnvironmentValueEx
+428	0xf80771c88200	ntoskrnl	NtSetSystemInformation
+429	0xf80771f9bf40	ntoskrnl	NtSetSystemPowerState
+430	0xf80771f4e3c0	ntoskrnl	NtSetSystemTime
+431	0xf80771cf8ed0	ntoskrnl	NtSetThreadExecutionState
+432	0xf807718af670	ntoskrnl	NtSetTimer2
+433	0xf807718bf650	ntoskrnl	NtSetTimerEx
+434	0xf80771d0fd50	ntoskrnl	NtSetTimerResolution
+435	0xf80771dc6e10	ntoskrnl	NtSetUuidSeed
+436	0xf80771d6ce90	ntoskrnl	NtSetVolumeInformationFile
+437	0xf80771d0a210	ntoskrnl	NtSetWnfProcessNotificationEvent
+438	0xf80771bb2e30	ntoskrnl	NtShutdownSystem
+439	0xf8077195c780	ntoskrnl	NtShutdownWorkerFactory
+440	0xf80771b64ed0	ntoskrnl	NtSignalAndWaitForSingleObject
+441	0xf807719d0c50	ntoskrnl	NtSinglePhaseReject
+442	0xf80771f5d3d0	ntoskrnl	NtStartProfile
+443	0xf80771f5d640	ntoskrnl	NtStopProfile
+444	0xf80771bef820	ntoskrnl	NtSubscribeWnfStateChange
+445	0xf80771f0ee80	ntoskrnl	NtSuspendProcess
+446	0xf80771cacda0	ntoskrnl	NtSuspendThread
+447	0xf80771dcf500	ntoskrnl	NtSystemDebugControl
+448	0xf80771ed71d0	ntoskrnl	NtTerminateEnclave
+449	0xf80771d16f80	ntoskrnl	NtTerminateJobObject
+450	0xf80771d0bbc0	ntoskrnl	NtTestAlert
+451	0xf80771e6c240	ntoskrnl	NtThawRegistry
+452	0xf807719d07b0	ntoskrnl	NtThawTransactions
+453	0xf80771c0d8d0	ntoskrnl	NtTraceControl
+454	0xf80771f57fc0	ntoskrnl	NtTranslateFilePath
+455	0xf80771ec0490	ntoskrnl	NtUmsThreadYield
+456	0xf80771e9da00	ntoskrnl	NtUnloadDriver
+457	0xf80771ce1870	ntoskrnl	NtUnloadKey
+458	0xf80771d736c0	ntoskrnl	NtUnloadKey2
+459	0xf80771ce1b90	ntoskrnl	NtUnloadKeyEx
+460	0xf80771cf3900	ntoskrnl	NtUnlockFile
+461	0xf80771880660	ntoskrnl	NtUnlockVirtualMemory
+462	0xf80771c8fd00	ntoskrnl	NtUnmapViewOfSectionEx
+463	0xf80771bf23e0	ntoskrnl	NtUnsubscribeWnfStateChange
+464	0xf80771bef3a0	ntoskrnl	NtUpdateWnfStateData
+465	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+465	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+465	0xf80771d26220	ntoskrnl	NtCreateEventPair
+465	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+465	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+465	0xf80771d26220	ntoskrnl	NtOpenEventPair
+465	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+465	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+465	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+465	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+465	0xf80771d26220	ntoskrnl	NtVdmControl
+465	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+465	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+465	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+465	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+465	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+465	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+465	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+465	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+466	0xf80771c8bd60	ntoskrnl	NtWaitForAlertByThreadId
+467	0xf80771e88c00	ntoskrnl	NtWaitForDebugEvent
+468	0xf80771f5dc00	ntoskrnl	NtWaitForKeyedEvent
+469	0xf80771816560	ntoskrnl	NtWaitForWorkViaWorkerFactory
+470	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+470	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+470	0xf80771d26220	ntoskrnl	NtCreateEventPair
+470	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+470	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+470	0xf80771d26220	ntoskrnl	NtOpenEventPair
+470	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+470	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+470	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+470	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+470	0xf80771d26220	ntoskrnl	NtVdmControl
+470	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+470	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+470	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+470	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+470	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+470	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+470	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+470	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+471	0xf80771bcd3b0	ntoskrnl	NtLoadKey3
+472	0xf80771d26220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+472	0xf80771d26220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+472	0xf80771d26220	ntoskrnl	NtCreateEventPair
+472	0xf80771d26220	ntoskrnl	NtDirectGraphicsCall
+472	0xf80771d26220	ntoskrnl	NtFilterTokenEx
+472	0xf80771d26220	ntoskrnl	NtOpenEventPair
+472	0xf80771d26220	ntoskrnl	NtSetHighEventPair
+472	0xf80771d26220	ntoskrnl	NtSetHighWaitLowEventPair
+472	0xf80771d26220	ntoskrnl	NtSetLowEventPair
+472	0xf80771d26220	ntoskrnl	NtSetLowWaitHighEventPair
+472	0xf80771d26220	ntoskrnl	NtVdmControl
+472	0xf80771d26220	ntoskrnl	NtWaitHighEventPair
+472	0xf80771d26220	ntoskrnl	NtWaitLowEventPair
+472	0xf80771d26220	ntoskrnl	PsNotifyWriteToExecutableMemory
+472	0xf80771d26220	ntoskrnl	SeAdjustObjectSecurity
+472	0xf80771d26220	ntoskrnl	xHalIommuMapDevice
+472	0xf80771d26220	ntoskrnl	xHalLoadMicrocode
+472	0xf80771d26220	ntoskrnl	xHalPostMicrocodeUpdate
+472	0xf80771d26220	ntoskrnl	xHalUnloadMicrocode
+
+Time Stamp: Sat Aug 15 21:44:06 2026
+
+
+******* End of command output ******
+
+Time Stamp: Sat Aug 15 21:44:27 2026
+
+"C:\Users\1533\Downloads\VolatilityWorkbench\vol.exe" -f "C:\Users\1533\Documents\awdd\fffffffw.raw" windows.poolscanner.PoolScanner 
+Volatility 3 Framework 2.26.2
+Tag	Offset	Layer	Name
+symbol_table_name1!_CMHIVE	0x980b9de3c34c	layer_name	N/A
+symbol_table_name1!_CMHIVE	0x980b9de3e3d4	layer_name	N/A
+symbol_table_name1!_CMHIVE	0x980b9de3e56c	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de5fe30	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9de63db0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de69400	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de69810	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de699c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de69b70	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de69d20	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a1c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a370	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a530	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a700	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6a8c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6aa80	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6ac40	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6adf0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b1c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b390	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b540	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b700	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6b8c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6ba70	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6bc30	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6bdf0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c1b0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c360	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c510	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c6c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6c880	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6ca40	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6cbf0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6cdc0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d1b0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d360	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d520	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d6f0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6d8b0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6da90	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6dc60	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6e000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6e1c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de6e390	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9de70b30	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7a610	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7b970	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c040	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c1e0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c380	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c520	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c6c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7c860	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7ca00	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7cba0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7cd40	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7d040	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7d380	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7d860	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7da00	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7e700	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7e8a0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7ed80	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9de7f700	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9de848b0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9de85000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9de85db0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9de86000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9de8e000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9de8fcd0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9de90000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9de9f000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dea0000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dea1000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dea44d0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dea8000	layer_name	N/A
+symbol_table_name1!_KMUTANT	0x980b9deaa2c0	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980b9deb4cc0	layer_name	\Windows\SysWOW64\Windows.Graphics.dll
+symbol_table_name1!_ETHREAD	0x980b9deba2b0	layer_name	N/A
+symbol_table_name1!_EPROCESS	0x980b9decd040	layer_name	System
+symbol_table_name1!_ETHREAD	0x980b9deda000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dedb000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9dede040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9deea0e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9deeb000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9deec000	layer_name	N/A
+symbol_table_name1!_EPROCESS	0x980b9deed000	layer_name	Registry
+symbol_table_name1!_ETHREAD	0x980b9df2a040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df2e0e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df320e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df360e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df37000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df38000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df39000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df3b040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df3f0e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df430e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df470e0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9df47d90	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df48000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df49000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df4a000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df4c040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df500e0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9df50d90	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df540e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df580e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df59000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df5a000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df5b000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df5d040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df610e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df650e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df690e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df6e040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9df720e0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0e3040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0ec000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0ed000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0ee000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0ef000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f0f0000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f1ecdd0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f1ee6c0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f1f1000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2c8d70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2cbd70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2ced70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2cfd70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2d36c0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2d6db0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2dad70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2dbd70	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980b9f2dcd70	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f2df5d0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f2e1000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f2e2000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f2e3000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f2e45d0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9f971510	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9f9794d0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9f979690	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980b9f981490	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f984040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f985000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f986000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f9875d0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f989000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f98a000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f98b000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f98c000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f98f000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f990000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f991000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980b9f992000	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba15fc550	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba15fc8b0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba15fd480	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba15fdb40	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba17fa810	layer_name	\Users\1533\AppData\Local\Spotify\Browser\Cache\Cache_Data\f_000ccb
+symbol_table_name1!_FILE_OBJECT	0x980ba17fae50	layer_name	\Users\1533\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\LocalState\AppIconCache\100\{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}_cmd_exe
+symbol_table_name1!_CMHIVE	0x980ba18f534c	layer_name	N/A
+symbol_table_name1!_CMHIVE	0x980ba18f73d4	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1967490	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba197a000	layer_name	N/A
+symbol_table_name1!_EPROCESS	0x980ba197d260	layer_name	svchost.exe
+symbol_table_name1!_EPROCESS	0x980ba1984260	layer_name	explorer.exe
+symbol_table_name1!_EPROCESS	0x980ba198c2a0	layer_name	svchost.exe
+symbol_table_name1!_EPROCESS	0x980ba1997000	layer_name	GigabyteDownlo
+symbol_table_name1!_ETHREAD	0x980ba19a9500	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba19ad500	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1a4e000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a57000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a58000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a58210	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a59000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a5a4d0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a5c650	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a5e510	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1a65300	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1a73000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a81df0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1a85490	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1a8a0c0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1a8c0c0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1ad8040	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1b03990	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1b07000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1b08000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba1b09490	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1b0ac60	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1b45410	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1b543a0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba1b54c50	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59f2620	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59f9000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59fa6c0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59faba0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59fc890	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba59fd890	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5a43dc0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5a44ce0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a48190	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4a190	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5a4aba0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4b000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4c000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4d000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4e000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a4f000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a50000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a51000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a52000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a54040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a55000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a56000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a57000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a58000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5a59000	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba5aad320	layer_name	\$Secure:$SDS:$DATA
+symbol_table_name1!_FILE_OBJECT	0x980ba5aad8e0	layer_name	\$MftMirr
+symbol_table_name1!_FILE_OBJECT	0x980ba5aada50	layer_name	\$LogFile
+symbol_table_name1!_FILE_OBJECT	0x980ba5aae460	layer_name	\$Secure:$SII:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5aae5d0	layer_name	\:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5aae740	layer_name	\$Extend:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5aae8b0	layer_name	\$Mft::$BITMAP
+symbol_table_name1!_FILE_OBJECT	0x980ba5aaea20	layer_name	\Device\HarddiskVolume3\$Extend\$RmMetadata\$TxfLog\$TxfLog
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5ab9d60	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5abfd20	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5ac0d20	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5ac3da0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b15d20	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5b273e0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b2cda0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b3fdc0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b6fda0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b75af0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5b7e890	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5bd5b80	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5bd5b80	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5bd5dc0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5bf7dc0	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5c24da0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5c3b020	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5c46d60	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5c73020	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5c76dc0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5cbd520	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5cbe560	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf31b0	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf3770	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf4b90	layer_name	\Windows\System32\drivers\crashdmp.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf7040	layer_name	\Windows\System32\difxapi.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf7810	layer_name	\Windows\System32\sechost.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf79a0	layer_name	\Windows\System32\nsi.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf8300	layer_name	\Windows
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf8620	layer_name	\ProtectedPrefix\Administrators
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf87b0	layer_name	\ProtectedPrefix\Administrators
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf8ad0	layer_name	\Windows\System32\shlwapi.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf8c60	layer_name	\Windows\System32\combase.dll
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5cf8df0	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf9490	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf9600	layer_name	\Windows\System32\drivers\dumpfve.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5cf9770	layer_name	\Windows\SysWOW64\ntdll.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfa010	layer_name	\Windows\System32\ntdll.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfa180	layer_name	\Program Files\Riot Vanguard\vgk.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfa2f0	layer_name	\Windows\System32\drivers\stornvme.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfa5d0	layer_name	\Windows\System32\drivers\Dumpstorport.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfa8b0	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfab90	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5cfae70	layer_name	\Windows\System32\vertdll.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5d041e0	layer_name	\Windows\System32\winsrv.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04370	layer_name	\Sessions\0\AppContainerNamedObjects
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04500	layer_name	\Windows\System32\csrss.exe
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04690	layer_name	\Windows\System32\locale.nls
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04820	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d049b0	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04b40	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d04e60	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d05630	layer_name	\Windows\System32\pt-BR\win32kbase.sys.mui
+symbol_table_name1!_FILE_OBJECT	0x980ba5d057c0	layer_name	\Windows\System32
+symbol_table_name1!_FILE_OBJECT	0x980ba5d05950	layer_name	\Windows\System32\csrsrv.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5d05ae0	layer_name	\Windows\System32\basesrv.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5d06120	layer_name	\Windows\System32\winsrvext.dll
+symbol_table_name1!_FILE_OBJECT	0x980ba5d068f0	layer_name	\Windows\System32\win32kfull.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5d06c10	layer_name	\Program Files\WindowsApps\Microsoft.LanguageExperiencePackpt-BR_19041.80.279.0_neutral__8wekyb3d8bbwe\Windows\System32\pt-BR\csrss.exe.mui
+symbol_table_name1!_FILE_OBJECT	0x980ba5d06da0	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d07700	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d07890	layer_name	\CMApi
+symbol_table_name1!_FILE_OBJECT	0x980ba5d07a20	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d07d40	layer_name	\Program Files\WindowsApps\Microsoft.LanguageExperiencePackpt-BR_19041.80.279.0_neutral__8wekyb3d8bbwe\Windows\System32\pt-BR\winsrv.dll.mui
+symbol_table_name1!_FILE_OBJECT	0x980ba5d33d30	layer_name	\Program Files\Riot Vanguard\Logs\vgk_2026-08-15_19-19-30.log
+symbol_table_name1!_FILE_OBJECT	0x980ba5d34010	layer_name	\Windows\System32\win32k.sys
+symbol_table_name1!_FILE_OBJECT	0x980ba5d34740	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5d34b90	layer_name	\$ConvertToNonresident
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5d68480	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5d687e0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5d68b40	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5d86dd0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5d97040	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5d98000	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5d99b80	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5da6040	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5da61e0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5da6520	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5da7700	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5da78a0	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac040	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac320	layer_name	\$Extend\$RmMetadata\$TxfLog\$Tops
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac490	layer_name	\Device\HarddiskVolume3\$Extend\$RmMetadata\$TxfLog\$TxfLog
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac600	layer_name	\:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac770	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5dac8e0	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5daca50	layer_name	\$Directory
+symbol_table_name1!_FILE_OBJECT	0x980ba5dacbc0	layer_name	\$Extend\$RmMetadata\$Txf:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5dacd30	layer_name	\Device\HarddiskVolume3\$Extend\$RmMetadata\$TxfLog\$TxfLog
+symbol_table_name1!_FILE_OBJECT	0x980ba5dad2f0	layer_name	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+symbol_table_name1!_FILE_OBJECT	0x980ba5dad460	layer_name	KtmLog
+symbol_table_name1!_FILE_OBJECT	0x980ba5dad8b0	layer_name	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+symbol_table_name1!_FILE_OBJECT	0x980ba5dada20	layer_name	TxfLog
+symbol_table_name1!_FILE_OBJECT	0x980ba5dadd00	layer_name	\$Extend\$RmMetadata\$TxfLog\$Tops:$T:$DATA
+symbol_table_name1!_FILE_OBJECT	0x980ba5dade70	layer_name	\$Extend\$Reparse:$R:$INDEX_ALLOCATION
+symbol_table_name1!_EPROCESS	0x980ba5db4000	layer_name	ctfmon.exe
+symbol_table_name1!_EPROCESS	0x980ba5dba260	layer_name	userinit.exe
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc3040	layer_name	\$Mft
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc3320	layer_name	\$Extend\$RmMetadata\$Repair:$Verify:$DATA
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc3490	layer_name	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc3770	layer_name	\$Extend\$RmMetadata\$Repair
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc3a50	layer_name	\$Extend\$RmMetadata\$TxfLog:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc4010	layer_name	\$Extend\$Deleted:$I30:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc4180	layer_name	\$BitMap
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc45d0	layer_name	\$Secure:$SDH:$INDEX_ALLOCATION
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc4740	layer_name	\$Extend\$RmMetadata\$Repair:$Corrupt:$DATA
+symbol_table_name1!_FILE_OBJECT	0x980ba5dc4b90	layer_name	\$Extend\$UsnJrnl:$J:$DATA
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5dd4980	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5dd8030	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5dd9550	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5dda000	layer_name	N/A
+symbol_table_name1!_FILE_OBJECT	0x980ba5de98c0	layer_name	\Windows\System32\drivers\pci.sys
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5df0040	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5df06c0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5df2ba0	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5df3a40	layer_name	N/A
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5df3be0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5e82040	layer_name	N/A
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5e90dd0	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5e93040	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5e99000	layer_name	N/A
+symbol_table_name1!_ETHREAD	0x980ba5e9a000	layer_name	N/A
+Traceback (most recent call last):
+symbol_table_name1!_LDR_DATA_TABLE_ENTRY	0x980ba5e9ca10	layer_name	N/A
+  File "vol.py", line 11, in <module>
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5e9f250	layer_name	N/A
+  File "volatility3\cli\__init__.py", line 927, in main
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5e9fc10	layer_name	N/A
+  File "volatility3\cli\__init__.py", line 515, in run
+symbol_table_name1!_DRIVER_OBJECT	0x980ba5ea1db0	layer_name	N/A
+  File "volatility3\cli\text_renderer.py", line 330, in render
+  File "volatility3\framework\renderers\__init__.py", line 323, in populate
+  File "volatility3\cli\text_renderer.py", line 325, in visitor
+  File "encodings\cp1252.py", line 19, in encode
+UnicodeEncodeError: 'charmap' codec can't encode character '\u7616' in position 58: character maps to <undefined>
+[PYI-15800:ERROR] Failed to execute script 'vol' due to unhandled exception!
+
+Time Stamp: Sat Aug 15 21:44:33 2026
+
+
+******* End of command output ******
+

@@ -1,0 +1,6 @@
+3079 ・ Journal Deletado
+7031 ・ Indica que um serviço foi encerrado inesperadamente
+1025 ・ Erro de .net (C# ou windows forms)
+
+4688 ・ Novo processo criado.
+4689 ・ Processo encerrado
